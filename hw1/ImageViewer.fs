@@ -1,6 +1,6 @@
 ﻿namespace hw1
 
-module Counter =
+module ImageViewer =
     open Avalonia.Controls
     open Avalonia.FuncUI
     open Avalonia.FuncUI.DSL

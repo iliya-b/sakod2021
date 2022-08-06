@@ -12,7 +12,7 @@ type MainWindow() as this =
         base.Title <- "hw1"
         base.Width <- 900.0
         base.Height <- 700.0
-        this.Content <- Counter.view (this)
+        this.Content <- ImageViewer.view (this)
 
         //this.VisualRoot.VisualRoot.Renderer.DrawFps <- true
         //this.VisualRoot.VisualRoot.Renderer.DrawDirtyRects <- true
